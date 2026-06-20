@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Basic information
+======
+
+* Name: Mauricio Adrián Che Moguel
+* Date of Birth: 9 March 1995
+* Place of Birth: Merida, Mexico
+* Nationality: Mexican
+
 Education
 ======
 * Ph.D in Mathematics, Durham University, 2024 
@@ -17,6 +25,7 @@ Education
 
 Work experience
 ======
+* From August 2026: Tenure-Track Assistant Professor, Department of Mathematics, Universidad de los Andes
 * 2024-2026: Postdoctoral researcher
   * University of Vienna
   * Funded by FWF START Project Lorentzian leght spaces

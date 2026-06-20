@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Vienna.
+I am a postdoctoral researcher at the University of Vienna, funded by the FWF START Project Lorentzian length spaces, supervised by Clemens Sämann. In Spring 2025, I was a visiting fellow in the Trimester Program: "Metric Analysis", at the Hausdorff Research Institute for Mathematics. I completed my PhD in 2024, at Durham University, under the supervision of Fernando Galaz-García.
+
+In August 2026, I will join the Department of Mathematics at Universidad de los Andes (Colombia) as a tenure-track assistant professor
 
 My research interests include:
 

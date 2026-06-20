@@ -26,9 +26,7 @@ Education
 Work experience
 ======
 * From August 2026: Tenure-Track Assistant Professor, Department of Mathematics, Universidad de los Andes
-* 2024-2026: Postdoctoral researcher
-  * University of Vienna
-  * Funded by FWF START Project Lorentzian leght spaces
+* November 2024 - July 2026: PostDoc at Faculty of Mathematics, University of Vienna
   
 Publications
 ======

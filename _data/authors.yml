@@ -11,8 +11,36 @@ Name Name:
 
 Name2 Name2:
   name        : "Jaime Santos-Rodriguez"
+  uri         : "https://jaime-santos.github.io/math/"
   email       : "jaime.santos@upm.es"
   bio         : "Jaime"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
+
+Name3 Name3:
+  name        : "Martin Kerin"
+  uri         : "https://maths.dur.ac.uk/users/martin.p.kerin/"
+  email       : "martin.p.kerin@durham.ac.uk"
+  bio         : "Martin"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
+
+Name4 Name4:
+  name        : "Raquel Perales"
+  uri         : "https://sites.google.com/view/rperalesmathwebsite/"
+  email       : "raquel.perales@cimat.mx"
+  bio         : "Raquel"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
+
+Name5 Name5:
+  name        : "Christina Sormani"
+  uri         : "https://sites.google.com/site/professorsormani/"
+  email       : "sormanic@gmail.com"
+  bio         : "Christina"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"

@@ -1,5 +1,6 @@
 ---
 title: "Gromov's Compactness Theorem for the Intrinsic Timed-Hausdorff distance"
+authors: 'Mauricio Che, Raquel Perales, Christina Sormani'
 collection: publications
 category: manuscripts
 date: 2026

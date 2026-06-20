@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Fernando Galaz-Garcia"
+  uri         : "https://www.durham.ac.uk/staff/fernando-galaz-garcia/"
+  email       : "fernando.galaz-garcia@durham.ac.uk"
+  bio         : "Fernando"
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
   google_plus : "Name"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+  name        : "Jaime Santos-Rodriguez"
+  email       : "jaime.santos@upm.es"
+  bio         : "Jaime"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"

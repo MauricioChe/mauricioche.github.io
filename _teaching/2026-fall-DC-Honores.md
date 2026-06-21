@@ -1,5 +1,5 @@
 ---
-title: "Differential Calculus (Honors)"
+title: "Differential Calculus (Honors) - Fall 2026"
 collection: teaching
 type: 'Undergraduate course'
 location: 'Bogota, Colombia'

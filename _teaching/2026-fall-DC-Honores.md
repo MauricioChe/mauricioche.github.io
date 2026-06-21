@@ -4,5 +4,5 @@ collection: teaching
 type: 'Undergraduate course'
 location: 'Bogota, Colombia'
 venue: 'Universidad de los Andes'
-date: 'Fall 2026'
+date: 2026.08.01
 ---

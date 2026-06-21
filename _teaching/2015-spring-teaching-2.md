@@ -4,7 +4,7 @@ collection: teaching
 type: "Lectures"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Universidad de los Andes"
-date: 2026-08
+date: 2026-08-01
 location: "Bogota, Colombia"
 ---
 

@@ -28,18 +28,3 @@ Work experience
 * From August 2026: Tenure-Track Assistant Professor, Department of Mathematics, Universidad de los Andes
 * November 2024 - July 2026: PostDoc at Faculty of Mathematics, University of Vienna
 
-  <--
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-  Teaching 
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  -->
-  

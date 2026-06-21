@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: "Hola!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Vienna, funded by the FWF START Project [Lorentzian length spaces](https://www.fwf.ac.at/en/research-radar/10.55776/STA32), supervised by [Clemens Sämann](https://clemenssaemann.wordpress.com/). In Spring 2025, I was a visiting fellow in the Trimester Program: "Metric Analysis", at the Hausdorff Research Institute for Mathematics. I completed my PhD in 2024, at Durham University, under the supervision of [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/).
+I am a PostDoc at the Faculty of Mathematics of the University of Vienna, funded by the FWF START Project [Lorentzian length spaces](https://www.fwf.ac.at/en/research-radar/10.55776/STA32), mentored by [Clemens Sämann](https://clemenssaemann.wordpress.com/). 
 
-In August 2026, I will join the Department of Mathematics at Universidad de los Andes (Colombia) as a tenure-track assistant professor.
+In August 2026, I will join the Department of Mathematics at Universidad de los Andes (Colombia) as a Tenure-Track Assistant Professor.
 
 My research interests include:
 

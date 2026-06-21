@@ -14,8 +14,8 @@ In August 2026, I will join the Department of Mathematics at Universidad de los 
 My research interests include:
 
 - Metric Geometry
-- Optimal Transport
 - Lorentzian Geometry
+- Optimal Transport
 - Topological Data Analysis
 
 

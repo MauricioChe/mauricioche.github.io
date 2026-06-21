@@ -3,18 +3,16 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Durham University, Department of Mathematical Sciences"
+date: 2024-01
+location: "Durham, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Linear Algebra
 ======
 
-Heading 2
+Partial Differential Equations
 ======
 
-Heading 3
+Mathematics for the Sciences
 ======

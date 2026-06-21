@@ -1,17 +1,8 @@
 ---
-title: "Fall 2026"
+title: "Differential Calculus"
 collection: teaching
-type: "Undergraduate courses"
+type: "Undergraduate course"
 venue: "Universidad de los Andes"
 date: 2026-08-01
 location: "Bogota, Colombia"
 ---
-
-
-Differential Calculus
-===
-asdasd
-
-Differential Calculus (Honors)
-===
-asdsda

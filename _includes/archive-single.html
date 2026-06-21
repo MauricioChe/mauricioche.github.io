@@ -47,7 +47,7 @@
             <p>{{ post.authors }}<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.category == 'preprints' %}
             <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-          {% endif}
+          {% endif %}
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}

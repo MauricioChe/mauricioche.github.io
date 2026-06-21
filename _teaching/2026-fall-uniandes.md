@@ -9,9 +9,6 @@ location: "Bogota, Colombia"
 ---
 
 
-Differential Calculus
-======
+### Differential Calculus
 
-Differential Calculus (Honors)
-======
-
+### Differential Calculus (Honors)

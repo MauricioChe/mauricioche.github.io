@@ -1,6 +1,6 @@
 ---
 title: "Geometry of generalised spaces of persistence diagrams and optimal partial transport for metric pairs"
-author: 'Mauricio Che'
+authors: 'Mauricio Che'
 collection: publications
 category: thesis
 venue: 'PhD thesis, Durham University'

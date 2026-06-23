@@ -16,14 +16,16 @@ redirect_from:
 * Place of Birth: Merida, Mexico
 * Nationality: Mexican
 
+### Positions
+
+* From August 2026: Tenure-Track Assistant Professor, Department of Mathematics, Universidad de los Andes, Colombia.
+* November 2024 - July 2026: PostDoc at Faculty of Mathematics, University of Vienna, Austria.
+* January - April 2025:  Visiting fellow at the Hausdorff Research Institute for Mathematics, Germany.
+
 ### Education
 
-* Ph.D in Mathematics, Durham University, 2024 
-* M.Sc in Mathematics, UNAM, 2020
-* B.Sc in Mathematics, UADY, 2017
+* October 2020 - January 2025: Ph.D in Mathematics, Durham University, UK. 
+* January 2018 - January 2020: M.Sc in Mathematics, UNAM, Mexico.
+* August 2017 - November 2017: B.Sc in Mathematics, UADY, Mexico.
 
-### Work experience
-
-* From August 2026: Tenure-Track Assistant Professor, Department of Mathematics, Universidad de los Andes
-* November 2024 - July 2026: PostDoc at Faculty of Mathematics, University of Vienna
 

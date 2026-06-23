@@ -50,7 +50,7 @@
           {% elsif post.category == 'thesis' %}
             <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% elsif post.category == 'conferences' %}
-            <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+            <p>{{ post.authors }}<br>In: <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% endif %}
         {% endif %}
 
